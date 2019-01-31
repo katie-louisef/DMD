@@ -1,0 +1,53 @@
+# DMD
+
+Workshop 01
+Setting up a project:
+Single View Application.
+Organisation Identifier.
+Uncheck Core Data and including Tests.
+Create Git respository on my mac.
+
+**How do you print things out the debug area?**
+
+```Print("Hello World")```
+
+**What is the shortcut to run your app?**
+
+CMD  R
+
+**What does "IB" mean?**
+
+Interface Builder
+
+**How do you connect things from your storyboard to your code?**
+
+CTRL DRAG
+
+**What's the difference between an IBOutlet and an IBAction?**
+
+IBOutlet - 'Label'  
+IBAction - 'Button' 
+
+**What is the name of the function that gets called automaticaly in your view controller classes?**
+
+``` override func viewDidLoad() {
+        super.viewDidLoad()
+        reset()
+    
+    }```
+
+**What is the assistant editor and what does it do?**
+
+View and abd story board at the same time (two Cirlcles like the diagram)
+
+**Where is the icon for the Attribute Inspector, where is it located and what does it do?**
+
+Main Storyboard Slider looking button.
+
+**What is the icon for the project navigator and where is it located?**
+
+Folder icon in the left hand side
+
+
+
+
