@@ -1,0 +1,47 @@
+# DMD
+Workshop 03
+
+What is the location framework called in iOS
+
+import CoreLocation
+
+What are the two numbers that determine location
+
+Longitude 
+Latitude 
+
+There are two keys you need to add to the info.plist in order to use gps of a device, what are they?
+
+Info.plist
+Right Click - New Row
+Privacy - Location Always and When in Use Usage Description 
+Privacy - Location When in Use Usage Description 
+
+
+Can you explain the role of the CLLocationManager delegate that we looked at?
+
+To start and stop the Core Location Services.
+
+How can you simulate location on the simulator?
+
+CTRL R
+Top of debug area
+GPS arrow
+
+
+How do you create a custom simulator for testing?
+
+File 
+New File
+GPX
+
+
+
+How can you automatically tell the simulator to use this when you run your app?
+Location 
+Edit Scheme 
+Run 
+Options 
+Default Location 
+Location Change (title of GPX)
+
